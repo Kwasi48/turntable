@@ -1,0 +1,18 @@
+h1{
+    padding: 56px;
+    background-color: blue;
+    text-align: center;
+}
+.novo{
+    background-color: aqua;
+    font-family: fantasy;
+    font-size: 100%;
+    color:black;
+    padding: 40px;
+    margin: 40px;
+}
+body{
+    background-image: url("images/daniel-diesenreither-J1olj1zAhy0-unsplash.jpg");
+    background-repeat: no-repeat;
+
+}
